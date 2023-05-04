@@ -7,6 +7,6 @@ func PrintHello(name string) {
 }
 
 func Is_stupid() string {
-	return "You are stupid"
+	return "You are stupid hehe"
 }
 
